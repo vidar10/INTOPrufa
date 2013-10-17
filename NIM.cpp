@@ -32,6 +32,7 @@ int hrugufjoldi;
 int main( )
 {
 	int val;
+	cout << "Velkominn, thetta forrit er i bodi Vidars" << endl;
 	do
 	{
 		cout << endl << endl << endl;
